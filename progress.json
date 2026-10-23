@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:48:13.731Z",
+  "generated_at": "2026-10-23T10:34:21.152Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -440,6 +440,19 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-18T20:39:33.993Z",
       "last_pushed_at": "2026-10-18T20:48:13.729Z"
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-10-23T10:34:20.221Z",
+      "last_pushed_at": "2026-10-23T10:34:20.221Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
